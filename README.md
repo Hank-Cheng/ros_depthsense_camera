@@ -1,3 +1,6 @@
+這是一個ROS的PACKAGE
+用來使用USB的相機
+
 # ros_depthdense_camera
 ROS node to acquire RGB and 3D data from SoftKinetic DepthSense cameras
 
